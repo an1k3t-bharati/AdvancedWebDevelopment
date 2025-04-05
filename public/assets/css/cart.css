@@ -1,0 +1,28 @@
+.cart-wrapper {
+    max-width: 900px;
+    margin: auto;
+}
+
+.cart-item {
+    background: #fff;
+    border-radius: 10px;
+    transition: box-shadow 0.3s;
+}
+
+.cart-item:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.cart-item img {
+    height: 100px;
+    object-fit: cover;
+}
+
+.cart-item h5 {
+    font-weight: bold;
+}
+
+.cart-item p {
+    font-size: 0.95rem;
+    margin: 0;
+}

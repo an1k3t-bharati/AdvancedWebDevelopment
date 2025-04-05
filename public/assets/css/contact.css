@@ -1,0 +1,32 @@
+.contact-container {
+    background-color: #f8f9fa;
+    padding: 40px 20px;
+    border-radius: 10px;
+}
+
+.contact-info {
+    background: linear-gradient(135deg, #f06595, #ff6b6b);
+    color: #fff;
+    font-size: 1.1rem;
+    border-radius: 10px;
+}
+
+.contact-info i {
+    font-size: 1.3rem;
+    margin-right: 5px;
+}
+
+.contact-info p,
+.contact-info h4 {
+    margin-bottom: 10px;
+}
+
+.btn-dark {
+    background-color: #212529;
+    border-color: #212529;
+}
+
+.btn-dark:hover {
+    background-color: #343a40;
+    border-color: #343a40;
+}

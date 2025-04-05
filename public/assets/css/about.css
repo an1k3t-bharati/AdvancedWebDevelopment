@@ -1,0 +1,37 @@
+.about-container {
+    background: linear-gradient(135deg, #fdfbfb, #ebedee);
+    padding: 40px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+}
+
+.about-container h2 {
+    font-weight: bold;
+    color: #333;
+}
+
+.highlight {
+    color: #e83e8c;
+}
+
+.about-container p {
+    font-size: 1.1rem;
+    color: #444;
+    line-height: 1.6;
+}
+
+.quote {
+    margin-top: 1.5rem;
+    font-size: 1.3rem;
+    font-style: italic;
+    color: #e83e8c;
+    border-left: 4px solid #e83e8c;
+    padding-left: 10px;
+}
+
+.brand-name {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #e83e8c;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}

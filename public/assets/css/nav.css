@@ -1,0 +1,36 @@
+.custom-navbar {
+    background: linear-gradient(135deg, #ff6b6b, #f06595);
+    padding: 10px 20px;
+}
+
+.navbar-nav .nav-link {
+    color: black !important;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link i:hover {
+    color: #ffd700 !important;
+}
+
+.navbar-nav .nav-link i {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.search-input {
+    padding-left: 35px;
+    border-radius: 20px;
+    border: 2px solid #ff6b6b;
+}
+
+.search-input:focus {
+    border-color: #ffd700;
+    box-shadow: 0px 0px 10px rgba(255, 215, 0, 0.5);
+}
+
+#selectedCategoryTag:hover {
+    background-color: #f8d7da;
+    color: #000;
+}
